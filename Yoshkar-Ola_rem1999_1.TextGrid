@@ -1,0 +1,460 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 603.169
+tiers? <exists>
+size = 6
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "rem@speech"
+        xmin = 0.0
+        xmax = 603.169
+        intervals: size = 41
+        intervals [1]
+            xmin = 0.0
+            xmax = 107.636
+            text = ""
+        intervals [2]
+            xmin = 107.636
+            xmax = 109.938
+            text = "одна'жды она' со свое'й подру'гой"
+        intervals [3]
+            xmin = 109.938
+            xmax = 110.055
+            text = ""
+        intervals [4]
+            xmin = 110.055
+            xmax = 111.11
+            text = "лет в ше'сть"
+        intervals [5]
+            xmin = 111.11
+            xmax = 111.187
+            text = ""
+        intervals [6]
+            xmin = 111.187
+            xmax = 112.519
+            text = "во внеуче'бное вре'мя"
+        intervals [7]
+            xmin = 112.519
+            xmax = 113.739
+            text = ""
+        intervals [8]
+            xmin = 113.739
+            xmax = 115.812
+            text = "эээ игра'ла в де'тском саду'"
+        intervals [9]
+            xmin = 115.812
+            xmax = 116.403
+            text = ""
+        intervals [10]
+            xmin = 116.403
+            xmax = 120.354
+            text = "эээ в де'тском саду' стоя'ли таки'е столбы' на кото'рые натя'гивают ле'ску"
+        intervals [11]
+            xmin = 120.354
+            xmax = 120.515
+            text = ""
+        intervals [12]
+            xmin = 120.515
+            xmax = 122.372
+            text = "эээ чтоб суши'ть белье'"
+        intervals [13]
+            xmin = 122.372
+            xmax = 122.673
+            text = ""
+        intervals [14]
+            xmin = 122.673
+            xmax = 125.122
+            text = "и одна'жды они' заме'тили"
+        intervals [15]
+            xmin = 125.122
+            xmax = 125.503
+            text = ""
+        intervals [16]
+            xmin = 125.503
+            xmax = 130.205
+            text = "ой в оди'н моме'нт они' заме'тили как б- белье' шеве'лится неесте'ственно"
+        intervals [17]
+            xmin = 130.205
+            xmax = 130.567
+            text = ""
+        intervals [18]
+            xmin = 130.567
+            xmax = 134.938
+            text = "ее' подру'га Ста'ся реши'ла э'то про'- ну посмотре'ть что там происхо'дит"
+        intervals [19]
+            xmin = 134.938
+            xmax = 136.049
+            text = ""
+        intervals [20]
+            xmin = 136.049
+            xmax = 138.48
+            text = "эээ пропа'ла за простыне'й"
+        intervals [21]
+            xmin = 138.48
+            xmax = 139.118
+            text = ""
+        intervals [22]
+            xmin = 139.118
+            xmax = 143.534
+            text = "и че'рез не'сколько секу'нд она' вы'летела отту'да и перепры'гнула"
+        intervals [23]
+            xmin = 143.534
+            xmax = 143.851
+            text = ""
+        intervals [24]
+            xmin = 143.851
+            xmax = 147.039
+            text = "эээ забо'р кото'рый был с нее' ро'стом е'сли не вы'ше"
+        intervals [25]
+            xmin = 147.039
+            xmax = 148.029
+            text = ""
+        intervals [26]
+            xmin = 148.029
+            xmax = 149.257
+            text = "эээ"
+        intervals [27]
+            xmin = 149.257
+            xmax = 149.95
+            text = ""
+        intervals [28]
+            xmin = 149.95
+            xmax = 151.801
+            text = "ма'му э'то заинтересова'ло"
+        intervals [29]
+            xmin = 151.801
+            xmax = 153.03
+            text = ""
+        intervals [30]
+            xmin = 153.03
+            xmax = 156.198
+            text = "и она' реши'ла то'же посмотре'ть что' же там тако'е"
+        intervals [31]
+            xmin = 156.198
+            xmax = 156.623
+            text = ""
+        intervals [32]
+            xmin = 156.623
+            xmax = 159.099
+            text = "она' зашла' за про'стынь и уви'дела та'м "
+        intervals [33]
+            xmin = 159.099
+            xmax = 159.722
+            text = ""
+        intervals [34]
+            xmin = 159.722
+            xmax = 160.405
+            text = "дя'дьку"
+        intervals [35]
+            xmin = 160.405
+            xmax = 160.554
+            text = ""
+        intervals [36]
+            xmin = 160.554
+            xmax = 161.901
+            text = "со спу'щенными штана'ми"
+        intervals [37]
+            xmin = 161.901
+            xmax = 162.385
+            text = ""
+        intervals [38]
+            xmin = 162.385
+            xmax = 164.755
+            text = "эээ он помани'л ее' па'льцем"
+        intervals [39]
+            xmin = 164.755
+            xmax = 165.16
+            text = ""
+        intervals [40]
+            xmin = 165.16
+            xmax = 168.29
+            text = "и ма'ма то'чно та'к же вы'летела из э'того де'тского са'дика"
+        intervals [41]
+            xmin = 168.29
+            xmax = 603.169
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "rem@facial"
+        xmin = 0.0
+        xmax = 603.169
+        intervals: size = 13
+        intervals [1]
+            xmin = 0.0
+            xmax = 107.64
+            text = ""
+        intervals [2]
+            xmin = 107.64
+            xmax = 108.701
+            text = "взгляд влево, а затем вверх"
+        intervals [3]
+            xmin = 108.701
+            xmax = 111.187
+            text = ""
+        intervals [4]
+            xmin = 111.187
+            xmax = 115.509
+            text = "взгляд вправо вверх, прищуривает правый глаз"
+        intervals [5]
+            xmin = 115.509
+            xmax = 116.235
+            text = ""
+        intervals [6]
+            xmin = 116.235
+            xmax = 121.564
+            text = "взгляд вверх, затем влево, затем вверх, прищуривает левый глаз"
+        intervals [7]
+            xmin = 121.564
+            xmax = 130.572
+            text = ""
+        intervals [8]
+            xmin = 130.572
+            xmax = 134.404
+            text = "взгляд вверх"
+        intervals [9]
+            xmin = 134.404
+            xmax = 148.114
+            text = ""
+        intervals [10]
+            xmin = 148.114
+            xmax = 149.594
+            text = "едва улыбается"
+        intervals [11]
+            xmin = 149.594
+            xmax = 150.725
+            text = ""
+        intervals [12]
+            xmin = 150.725
+            xmax = 154.534
+            text = "улыбается, а затем смеется и улыбается"
+        intervals [13]
+            xmin = 154.534
+            xmax = 603.169
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "rem@facial-meaning"
+        xmin = 0.0
+        xmax = 603.169
+        intervals: size = 13
+        intervals [1]
+            xmin = 0.0
+            xmax = 107.64
+            text = ""
+        intervals [2]
+            xmin = 107.64
+            xmax = 108.701
+            text = "вспоминает"
+        intervals [3]
+            xmin = 108.701
+            xmax = 111.187
+            text = ""
+        intervals [4]
+            xmin = 111.187
+            xmax = 115.509
+            text = "вспоминает"
+        intervals [5]
+            xmin = 115.509
+            xmax = 116.235
+            text = ""
+        intervals [6]
+            xmin = 116.235
+            xmax = 121.564
+            text = "сосредотачивается, чтобы понятно объяснить"
+        intervals [7]
+            xmin = 121.564
+            xmax = 130.572
+            text = ""
+        intervals [8]
+            xmin = 130.572
+            xmax = 134.404
+            text = "сосредотачивается на воспоминании, подбирает слова"
+        intervals [9]
+            xmin = 134.404
+            xmax = 148.114
+            text = ""
+        intervals [10]
+            xmin = 148.114
+            xmax = 149.594
+            text = "вспоминает и готовится сказать что-то смешное"
+        intervals [11]
+            xmin = 149.594
+            xmax = 150.725
+            text = ""
+        intervals [12]
+            xmin = 150.725
+            xmax = 154.534
+            text = "вспоминает что-то смешное"
+        intervals [13]
+            xmin = 154.534
+            xmax = 603.169
+            text = ""
+    item[4]:
+        class = "IntervalTier"
+        name = "rem@gestures"
+        xmin = 0.0
+        xmax = 603.169
+        intervals: size = 9
+        intervals [1]
+            xmin = 0.0
+            xmax = 120.396
+            text = ""
+        intervals [2]
+            xmin = 120.396
+            xmax = 121.585
+            text = "правая рука, поднимает ее ко рту"
+        intervals [3]
+            xmin = 121.585
+            xmax = 123.415
+            text = ""
+        intervals [4]
+            xmin = 123.415
+            xmax = 124.351
+            text = "левая рука, кладет ее на шею"
+        intervals [5]
+            xmin = 124.351
+            xmax = 125.496
+            text = ""
+        intervals [6]
+            xmin = 125.496
+            xmax = 126.732
+            text = "голова, отклоняет ее немного назад, а затем едва кивает"
+        intervals [7]
+            xmin = 126.732
+            xmax = 142.702
+            text = ""
+        intervals [8]
+            xmin = 142.702
+            xmax = 146.106
+            text = "левая рука, поднимает ее ко лбу"
+        intervals [9]
+            xmin = 146.106
+            xmax = 603.169
+            text = ""
+    item[5]:
+        class = "IntervalTier"
+        name = "rem@gest-meaning"
+        xmin = 0.0
+        xmax = 603.169
+        intervals: size = 9
+        intervals [1]
+            xmin = 0.0
+            xmax = 120.396
+            text = ""
+        intervals [2]
+            xmin = 120.396
+            xmax = 121.585
+            text = "вспоминает"
+        intervals [3]
+            xmin = 121.585
+            xmax = 123.415
+            text = ""
+        intervals [4]
+            xmin = 123.415
+            xmax = 124.351
+            text = "непроизвольный жест"
+        intervals [5]
+            xmin = 124.351
+            xmax = 125.496
+            text = ""
+        intervals [6]
+            xmin = 125.496
+            xmax = 126.732
+            text = "отрицает то, что сказал до этого, и указывает на то, как правильно "
+        intervals [7]
+            xmin = 126.732
+            xmax = 142.702
+            text = ""
+        intervals [8]
+            xmin = 142.702
+            xmax = 146.106
+            text = "думает"
+        intervals [9]
+            xmin = 146.106
+            xmax = 603.169
+            text = ""
+    item[6]:
+        class = "IntervalTier"
+        name = "rem@focus"
+        xmin = 0.0
+        xmax = 603.169
+        intervals: size = 19
+        intervals [1]
+            xmin = 0.0
+            xmax = 110.546
+            text = ""
+        intervals [2]
+            xmin = 110.546
+            xmax = 111.096
+            text = "ше'сть"
+        intervals [3]
+            xmin = 111.096
+            xmax = 128.574
+            text = ""
+        intervals [4]
+            xmin = 128.574
+            xmax = 129.241
+            text = "шеве'лится"
+        intervals [5]
+            xmin = 129.241
+            xmax = 134.17
+            text = ""
+        intervals [6]
+            xmin = 134.17
+            xmax = 134.938
+            text = "происхо'дит"
+        intervals [7]
+            xmin = 134.938
+            xmax = 141.645
+            text = ""
+        intervals [8]
+            xmin = 141.645
+            xmax = 142.361
+            text = "вы'летела"
+        intervals [9]
+            xmin = 142.361
+            xmax = 144.085
+            text = ""
+        intervals [10]
+            xmin = 144.085
+            xmax = 144.609
+            text = "забо'р"
+        intervals [11]
+            xmin = 144.609
+            xmax = 154.978
+            text = ""
+        intervals [12]
+            xmin = 154.978
+            xmax = 155.517
+            text = "что' же"
+        intervals [13]
+            xmin = 155.517
+            xmax = 157.368
+            text = ""
+        intervals [14]
+            xmin = 157.368
+            xmax = 157.985
+            text = "про'стынь"
+        intervals [15]
+            xmin = 157.985
+            xmax = 159.722
+            text = ""
+        intervals [16]
+            xmin = 159.722
+            xmax = 160.405
+            text = "дя'дьку"
+        intervals [17]
+            xmin = 160.405
+            xmax = 161.248
+            text = ""
+        intervals [18]
+            xmin = 161.248
+            xmax = 161.901
+            text = "штана'ми"
+        intervals [19]
+            xmin = 161.901
+            xmax = 603.169
+            text = ""

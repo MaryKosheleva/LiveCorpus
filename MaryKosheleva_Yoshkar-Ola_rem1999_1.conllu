@@ -1,0 +1,169 @@
+# time_begin = 1:43
+±
+rem@
+±
+# sent_id = 3
+# text = теперь / история про маму
+1	теперь	теперь	ADV	_	Degree=Pos	0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	про	про	ADP	_	_	5	case	_	_
+5	маму	мама	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n\n
+±
+rem@
+±
+# sent_id = 5
+# text = однажды она со своей подругой / лет в шесть / во внеучебное время / эээ играла в детском саду / эээ в детском саду стояли такие столбы на которые натягивают леску / эээ чтоб сушить белье / и / однажды они заметили / ой / в один момент они заметили как б- белье шевелится неестественно / ее подруга Стася решила это про- / ну / посмотреть что там происходит
+1	однажды	однажды	ADV	_	Degree=Pos	16	advmod	_	_
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	nsubj	_	_
+3	со	с	ADP	_	_	5	case	_	_
+4	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing	5	det	_	_
+5	подругой	подруга	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	16	obl	_	_
+6	/	/	PUNCT	_	_	5	punct	_	_
+7	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	obl	_	_
+8	в	в	ADP	_	_	7	case	_	_
+9	шесть	шесть	NUM	_	Case=Acc	16	nummod:gov	_	_
+10	/	/	PUNCT	_	_	16	punct	_	_
+11	во	в	ADP	_	_	13	case	_	_
+12	внеучебное	внеучебный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+14	/	/	PUNCT	_	_	13	punct	_	_
+15	эээ	эээ	INTJ	_	_	16	advmod	_	_
+16	играла	играть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	детском	детский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	саду	сад	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Masc|Number=Sing	16	obl	_	_
+20	/	/	PUNCT	_	_	25	punct	_	_
+21	эээ	эээ	INTJ	_	_	25	advmod	_	_
+22	в	в	ADP	_	_	24	case	_	_
+23	детском	детский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	саду	сад	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Masc|Number=Sing	25	obl	_	_
+25	стояли	стоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	_
+26	такие	такой	DET	_	Case=Nom|Number=Plur	27	det	_	_
+27	столбы	столб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	30	nsubj	_	_
+28	на	на	ADP	_	_	29	case	_	_
+29	которые	который	PRON	_	Case=Acc	30	obl	_	_
+30	натягивают	натягивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	xcomp	_	_
+31	леску	леска	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	obj	_	_
+32	/	/	PUNCT	_	_	33	punct	_	_
+33	эээ	эээ	INTJ	_	_	30	conj	_	_
+34	чтоб	чтобы	SCONJ	_	Mood=Cnd	35	mark	_	_
+35	сушить	сушить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	33	advcl	_	_
+36	белье	белье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	35	obj	_	_
+37	/	/	PUNCT	_	_	50	punct	_	_
+38	и	и	CCONJ	_	_	50	cc	_	_
+39	/	/	PUNCT	_	_	50	punct	_	_
+40	однажды	однажды	ADV	_	Degree=Pos	42	advmod	_	_
+41	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	42	nsubj	_	_
+42	заметили	заметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	50	advcl	_	_
+43	/	/	PUNCT	_	_	42	punct	_	_
+44	ой	ой	INTJ	_	_	42	conj	_	_
+45	/	/	PUNCT	_	_	42	punct	_	_
+46	в	в	ADP	_	_	48	case	_	_
+47	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	48	nummod:gov	_	_
+48	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	50	obl	_	_
+49	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	50	nsubj	_	_
+50	заметили	заметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	35	conj	_	_
+51	как	как	SCONJ	_	_	60	mark	_	_
+52	б-	белье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	54	nsubj	_	_
+53	белье	белье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	54	nsubj	_	_
+54	шевелится	шевелиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	60	advcl	_	_
+55	неестественно	неестественно	ADV	_	Degree=Pos	54	advmod	_	_
+56	/	/	PUNCT	_	_	54	punct	_	_
+57	ее	она	DET	_	Case=Nom	58	det	_	_
+58	подруга	подруга	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	60	nsubj	_	_
+59	Стася	Стася	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	58	appos	_	_
+60	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	50	advcl	_	_
+61	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	62	det	_	_
+62	про	проверить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	60	obj	_	SpaceAfter=No
+63	-	-	PUNCT	_	_	70	punct	_	_
+64	/	/	PUNCT	_	_	70	punct	_	_
+65	ну	ну	PART	_	_	66	parataxis	_	_
+66	/	/	PUNCT	_	_	70	punct	_	_
+67	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	70	xcomp	_	_
+68	что	что	PRON	_	Case=Acc	67	obj	_	_
+69	там	там	ADV	_	Degree=Pos	67	advmod	_	_
+70	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	60	parataxis	_	SpacesAfter=\n\n
+±
+rem@
+±
+# sent_id = 7
+# text = эээ пропала за простыней / и / через несколько секунд она вылетела оттуда и перепрыгнула / эээ забор который был с нее ростом если не выше / эээ / маму это заинтересовало [ухмыляется] / и она решила тоже посмотреть что же там такое / она зашла за простынь и увидела там / дядьку / со спущенными штанами / эээ / он поманил ее пальцем / и мама точно так же вылетела из этого детского садика
+1	эээ	эээ	INTJ	_	_	2	conj	_	_
+2	пропала	пропасть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	за	за	ADP	_	_	4	case	_	_
+4	простыней	простыня	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+5	/	/	PUNCT	_	_	12	punct	_	_
+6	и	и	CCONJ	_	_	12	cc	_	_
+7	/	/	PUNCT	_	_	12	punct	_	_
+8	через	через	ADP	_	_	10	case	_	_
+9	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	10	nummod:gov	_	_
+10	секунд	секунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	obl	_	_
+11	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nsubj	_	_
+12	вылетела	вылететь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+13	оттуда	оттуда	ADV	_	Degree=Pos	12	advmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	перепрыгнула	перепрыгнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+16	/	/	PUNCT	_	_	23	punct	_	_
+17	эээ	эээ	INTJ	_	_	23	nmod	_	_
+18	забор	забор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	nsubj	_	_
+19	который	который	PRON	_	Case=Nom	18	nmod	_	_
+20	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	cop	_	_
+21	с	с	ADP	_	_	22	case	_	_
+22	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	23	nmod	_	_
+23	ростом	рост	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	obl	_	_
+24	если	если	SCONJ	_	_	32	mark	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	выше	высоко	ADV	_	Degree=Cmp	32	advmod	_	_
+27	/	/	PUNCT	_	_	28	punct	_	_
+28	эээ	эээ	INTJ	_	_	32	parataxis	_	_
+29	/	/	PUNCT	_	_	30	punct	_	_
+30	маму	мама	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	32	obj	_	_
+31	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	32	nsubj	_	_
+32	заинтересовало	заинтересовать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	advcl	_	_
+33	[	[	PUNCT	_	_	34	punct	_	SpaceAfter=No
+34	ухмыляется	ухмыляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	32	conj	_	SpaceAfter=No
+35	]	]	PUNCT	_	_	39	punct	_	_
+36	/	/	PUNCT	_	_	39	punct	_	_
+37	и	и	CCONJ	_	_	39	cc	_	_
+38	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	39	nsubj	_	_
+39	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	parataxis	_	_
+40	тоже	тоже	CCONJ	_	_	39	сс	_	_
+41	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	39	xcomp	_	_
+42	что	что	PRON	_	Case=Nom	41	obj	_	_
+43	же	же	PART	_	_	42	advmod	_	_
+44	там	там	ADV	_	Degree=Pos	41	advmod	_	_
+45	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	46	det	_	_
+46	/	/	PUNCT	_	_	48	punct	_	_
+47	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	48	nsubj	_	_
+48	зашла	зайти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	39	conj	_	_
+49	за	за	ADP	_	_	50	case	_	_
+50	простынь	простыня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	48	obl	_	_
+51	и	и	CCONJ	_	_	52	cc	_	_
+52	увидела	видеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	39	conj	_	_
+53	там	там	ADV	_	Degree=Pos	52	advmod	_	_
+54	/	/	PUNCT	_	_	55	punct	_	_
+55	дядьку	дядька	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	52	obj	_	_
+56	/	/	PUNCT	_	_	59	punct	_	_
+57	со	с	ADP	_	_	59	case	_	_
+58	спущенными	спустить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	59	amod	_	_
+59	штанами	штаны	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	52	obl	_	_
+60	/	/	PUNCT	_	_	61	punct	_	_
+61	эээ	эээ	INTJ	_	_	59	nmod	_	_
+62	/	/	PUNCT	_	_	64	punct	_	_
+63	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	64	nsubj	_	_
+64	поманил	поманить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	39	conj	_	_
+65	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	64	obj	_	_
+66	пальцем	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	64	obl	_	_
+67	/	/	PUNCT	_	_	73	punct	_	_
+68	и	и	CCONJ	_	_	73	cc	_	_
+69	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	73	nsubj	_	_
+70	точно	точно	ADV	_	Degree=Pos	71	advmod	_	_
+71	так	так	ADV	_	Degree=Pos	73	advmod	_	_
+72	же	же	PART	_	_	71	advmod	_	_
+73	вылетела	вылететь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	64	conj	_	_
+74	из	из	ADP	_	_	77	case	_	_
+75	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	77	det	_	_
+76	детского	детский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	77	amod	_	_
+77	садика	садик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	73	obl	_	SpacesAfter=\n\n
+±
